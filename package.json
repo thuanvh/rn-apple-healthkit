@@ -1,7 +1,7 @@
 {
   "name": "rn-apple-healthkit-oxygen",
   "version": "0.8.0",
-  "description": "A React Native package for interacting with Apple HealthKit",
+  "description": "A React Native package for interacting with Apple HealthKit Based on Terrillo package add oxygen",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -29,5 +29,11 @@
   },
   "peerDependencies": {
     "react-native": ">=0.40.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
