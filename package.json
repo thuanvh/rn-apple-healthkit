@@ -1,11 +1,11 @@
 {
   "name": "rn-apple-healthkit-oxygen",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A React Native package for interacting with Apple HealthKit Based on Terrillo package add oxygen",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+    "url": "git+https://github.com/thuanvh/rn-apple-healthkit.git"
   },
   "keywords": [
     "Apple",
@@ -18,9 +18,9 @@
     "ios"
   ],
   "bugs": {
-    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
+    "url": "https://github.com/thuanvh/rn-apple-healthkit/issues"
   },
-  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
+  "homepage": "https://github.com/thuanvh/rn-apple-healthkit",
   "author": "Terrillo Walls",
   "license": "MIT",
   "devDependencies": {
